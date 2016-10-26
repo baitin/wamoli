@@ -1,7 +1,7 @@
 .. Wamoli Documentation master file.
 
 #################################
-Welcome to wamoli's Documentation
+Welcome to Wamoli's Documentation
 #################################
 
 .. toctree::
