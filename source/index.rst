@@ -1,4 +1,4 @@
-.. wamoli Documentation master file.
+.. Wamoli Documentation master file.
 
 #################################
 Welcome to wamoli's Documentation

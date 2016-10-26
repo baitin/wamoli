@@ -44,7 +44,7 @@ master_doc = u'index'
 
 
 # General information about the project.
-project = u'wamoli'
+project = u'Wamoli'
 
 copyright = u'2016, Barry Fang'
 
@@ -100,7 +100,7 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = u'alabaster'
+html_theme = u'classic'
 
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -243,7 +243,7 @@ latex_use_parts = True
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [('index', 'wamoli', u'wamoli Documentation', [u'Barry Fang'], 1)]
+man_pages = [('index', 'Wamoli', u'Wamoli Documentation', [u'Barry Fang'], 1)]
 
 
 # -- Additional options --------------------------------------------------------
