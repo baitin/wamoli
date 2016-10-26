@@ -7,9 +7,8 @@ Welcome to Wamoli's Documentation
 .. toctree::
    :maxdepth: 2
 
-test
-``
-   helloworld
+   overview
+   download
 
 Indices and tables
 ==================
